@@ -8,6 +8,8 @@
 
 #import "ViewController.h"
 #import <testPrivatePod.h>
+#import <Bugster.h>
+
 @interface ViewController ()
 
 @end
@@ -19,6 +21,8 @@
     // Do any additional setup after loading the view, typically from a nib.
     [testPrivatePod printVersion];
     [testPrivatePod printTest];
+    
+    [Bugster initAtRight];
 }
 
 - (void)didReceiveMemoryWarning {

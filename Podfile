@@ -6,6 +6,7 @@ xcodeproj 'testUsePod'
 
 # Model
 pod 'testPrivatePod', :path => '~/.cocoapods/repos/testPrivatePod'
+pod 'BugsterIO', :path => '~/.cocoapods/repos/BugsterIO/' 
 
 # Debug
 pod 'CrittercismSDK'
