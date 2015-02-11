@@ -1,0 +1,17 @@
+PODS:
+  - CrittercismSDK (5.0.7)
+  - testPrivatePod (0.0.9)
+
+DEPENDENCIES:
+  - CrittercismSDK
+  - testPrivatePod (from `~/.cocoapods/repos/testPrivatePod`)
+
+EXTERNAL SOURCES:
+  testPrivatePod:
+    :path: ~/.cocoapods/repos/testPrivatePod
+
+SPEC CHECKSUMS:
+  CrittercismSDK: 1f1a91c7a51ca8044e675765bde5d2aa97295b1d
+  testPrivatePod: 3124eddab2b75ee5fecf4aa4f6778c9fff6f008b
+
+COCOAPODS: 0.36.0.beta.1
