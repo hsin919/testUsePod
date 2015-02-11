@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9E15A93D-B0D8-4749-B2A1-075734B934BC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>testUsePod</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2FA81A862C591863201636A3D077A8FC0CF14A1A</key>
+		<string>https://github.com/hsin919/testUsePod.git</string>
+		<key>B934000B2B1306418ED8C00A8E44DF05A3CA7C4F</key>
+		<string>https://github.com/hsin919/testPrivatePod.git</string>
+		<key>BEB7D1F92333D33F8D30C133F32E54B8BCDF9B2B</key>
+		<string>https://github.com/BugsterIO/BugsterIO-iOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>testUsePod.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2FA81A862C591863201636A3D077A8FC0CF14A1A</key>
+		<string>..</string>
+		<key>B934000B2B1306418ED8C00A8E44DF05A3CA7C4F</key>
+		<string>../../../../.cocoapods/repos/testPrivatePod</string>
+		<key>BEB7D1F92333D33F8D30C133F32E54B8BCDF9B2B</key>
+		<string>../../../../.cocoapods/repos/BugsterIO</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/hsin919/testUsePod.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2FA81A862C591863201636A3D077A8FC0CF14A1A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BEB7D1F92333D33F8D30C133F32E54B8BCDF9B2B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BugsterIO</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B934000B2B1306418ED8C00A8E44DF05A3CA7C4F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>testPrivatePod</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2FA81A862C591863201636A3D077A8FC0CF14A1A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>testUsePod</string>
+		</dict>
+	</array>
+</dict>
+</plist>
